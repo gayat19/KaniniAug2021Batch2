@@ -1,0 +1,36 @@
+Item-Id,Name,Price,QuanityInStock,Description, Supplier_Id,CategoryID,Rating
+
+ItemPic - ItemId,PicId
+
+Pic ->Id,PicLink
+
+City - ItemId,City
+
+Supplier - Id,Name,Phone,EMail,Address
+
+Category -ID,Name, Description
+
+Occation - ID,Name, StartDate,EndDate,Description
+
+Occation Item - OccationID,ItemId, discountPercent
+
+Customer - Id ,Name,DateOfBirth,Address,Phone, Email, password
+
+WallelTransaction - CustomerId, Type, Amount
+
+Order - Id, Customer_Id, Order_Date, TotalAmount,Status, PaymentMethod, PaymentStatus
+
+SupplierOrder - SupplierOrderNumebr,OrderTrackingNumber,OrderDate, Price, Status
+
+OrderDetails - OrderTracking Number,ItemId,OrderId,Quantity, Price,Status,rating, ExpDeliveryDate, Remarks
+
+Delivery - OrderTrackingNumber,DeliveryStatus, AgentId, Rating, ActualDeliveryDate
+
+DeliverAgent - id,Name,Phone, Email,Rating
+
+Returns - OrderTracking Number, ReturnReason, Status, RefundAmount
+------------------------------------------------------------
+DDL-> CReate,Alter,Drop
+
+DML -> Insert,Update,Delete
+
