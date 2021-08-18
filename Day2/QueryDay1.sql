@@ -72,3 +72,17 @@ insert into EmployeeSkill values(101,'SQL',8)
 insert into EmployeeSkill values(102,'C',default)
 	
 select * from EmployeeSkill
+
+
+create table Occation
+(id int identity(1,1) primary key,
+name varchar(20),
+start_date datetime,
+end_date datetime,
+description varchar(2000))
+
+insert into Occation(name,start_date,end_date,description) 
+values('Christmas','12-12-2021','12-28-2021','Christmas gifts and decors')
+
+select * from Occation
+

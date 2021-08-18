@@ -1,0 +1,31 @@
+1) Print all the customer details
+
+2) Prin the product name and unit price
+
+3) For a given supplier name print all the products
+
+4) Print the number of order for every customer
+
+5) For a given shipping company name print number of orders for every customer
+
+6) Print teh customer ID and the number of orders placed sorderd by the orders in descending order
+
+7) print the average price of items supplied by every supplier
+
+8) Print the avertage price of products supplied by every supplier in every quantity
+
+9) Print the total price of every order
+
+10) Given a category name print the prodcts in it
+
+11) Print the product name, supplier name for all the products
+
+12) Print the customer name and the total sales done by the customer
+
+13) Print the customer name, product name,category name and supplier name
+
+14) Print the shipper name, customer name, product name and the full name of employee who took the order
+
+15) Print the product name and the otal order price for every product
+
+
