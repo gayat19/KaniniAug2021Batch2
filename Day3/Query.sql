@@ -137,5 +137,29 @@ select concat(fname,lname) as 'emp_name' from employee
 where pub_id in(select pub_id from publishers 
 where pub_id in(select pub_id from titles where title='Straight Talk About Computers'))
 
+select * from publishers
+select * from titles
+
+select title, pub_name from publishers join titles
+on publishers.pub_id = titles.pub_id
+
+select title, pub_name from publishers p join titles t
+on p.pub_id = t.pub_id
+
+select Concat(au_fname,' ',au_lname) 'Author Name', title 'Book Name'
+from titles t join titleauthor ta on t.title_id = ta.title_id
+join authors a on a.au_id= ta.au_id
+---Print the title name and total price (price*qty) for all books that are sold
+select title, t.price*s.qty as 'Total Price' from 
+titles t join sales s on t.title_id=s.title_id
+
+--Print the employee name and teh publishing company name
+select concat(fname,' ',lname) 'Employee Name', p.pub_name 
+from employee e join publishers p on e.pub_id=p.pub_id
+
+--
+
+
+
 
 
