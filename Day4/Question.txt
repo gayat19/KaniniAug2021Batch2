@@ -1,5 +1,5 @@
 Team activity
-
+Also create tables and insert data
 Case 1: A Simple Case on ER Modelling
 •	Goal – to demonstrate how to build an E-R model from a simple Statement of Objectives of a movie store. ( given very clearly in statement forms)
 Scenario:
