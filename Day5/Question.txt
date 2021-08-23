@@ -1,0 +1,20 @@
+Use the smae employee table
+
+Create a table salary 
+salId,basic, hra,da, deductions
+
+create a table employeesalary
+empId,salId,Date,Extra(+/-),saldate
+
+insert enough values
+
+Create a procedure that will insert to the tables
+
+Create a function taht will calcualte teh total salary(Basic+HRA+Da-ded+extra)
+
+create a procedure that will take a employee id and give bcak teh total salary received.Use the fuction to do the calculation
+
+Self learing
+If, For in SQL
+
+
