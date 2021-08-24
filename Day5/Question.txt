@@ -18,3 +18,5 @@ Self learing
 If, For in SQL
 
 
+
+
