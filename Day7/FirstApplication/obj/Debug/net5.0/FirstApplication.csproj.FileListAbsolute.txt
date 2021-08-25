@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\FirstApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\FirstApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\FirstApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\FirstApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\FirstApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\ref\FirstApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\bin\Debug\net5.0\FirstApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\ref\FirstApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day7\FirstApplication\obj\Debug\net5.0\FirstApplication.genruntimeconfig.cache

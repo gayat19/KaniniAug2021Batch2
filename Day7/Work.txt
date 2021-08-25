@@ -1,0 +1,55 @@
+C# -> .NET
+
+IN the desired folder
+>dotnet new console
+
+To execute the application 
+>dotnet run
+
+Object -> Properties + Behaviour -> Define in class
+
+Class ->  Collection of properties and behaviour
+	  Collection of object that show simillar behaviour
+	  User defined datatype
+   	  Bluebrpint of an object
+   
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types
+
+Class -> Car
+Add teh properties and Behaviour
+
+class Car
+    {
+        public int MaxSpeed { get; set; }
+        public string BodyType { get; set; }
+        public string Manufacturer { get; set; }
+        public string ModelName { get; set; }
+        public int EngineСapacity { get; set; }
+        public void Accelerate()
+        {
+            Console.WriteLine("Accelerate");
+        }
+        public void Brake()
+        {
+            Console.WriteLine("Brake");
+        }
+        public void StartEngine()
+        {
+            Console.WriteLine("StartEngine");
+        }
+        public void StopEngine()
+        {
+            Console.WriteLine("StopEngine");
+        }
+    }
+
+
+
+
+
+
+
+
+
+

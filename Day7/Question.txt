@@ -1,0 +1,9 @@
+Ref site
+https://docs.microsoft.com/en-us/dotnet/csharp/
+
+Create a new project with name "CompanyApplication"
+Create a class Department
+Add properties
+-Id,Name,Strength
+Add Behaviour -
+  AddEmployee, ReliveEmployee
