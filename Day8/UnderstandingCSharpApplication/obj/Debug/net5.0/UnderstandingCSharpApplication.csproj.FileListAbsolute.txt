@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\UnderstandingCSharpApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\UnderstandingCSharpApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\UnderstandingCSharpApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\UnderstandingCSharpApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\UnderstandingCSharpApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\ref\UnderstandingCSharpApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\bin\Debug\net5.0\UnderstandingCSharpApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\ref\UnderstandingCSharpApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day8\UnderstandingCSharpApplication\obj\Debug\net5.0\UnderstandingCSharpApplication.genruntimeconfig.cache
