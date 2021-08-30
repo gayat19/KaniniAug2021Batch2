@@ -1,0 +1,39 @@
+OOPS
+
+Inheritance
+Polymorphism
+   Static 
+   Dynamic
+
+Small examples
+
+CRUD -> Create Read Update Delete
+
+Inheritance -> reusability
+
+single
+multi level
+hirarchial
+
+overloading
+  Method
+  Constructor
+  Operator
+  Indexer
+
+Create a Dog class and inherit it from the Pug and GreatDane classes
+Override the Look() method
+
+Array of Account - AccountNumber,Name, Balance, Phone
+Overload teh constructor to initialie the properties
+virtual method Transact
+   Saving - if the balance is > 5000 after the transaction 
+   Current- if the balance is > 1000 after the transaction 
+    	  
+
+
+
+
+
+
+

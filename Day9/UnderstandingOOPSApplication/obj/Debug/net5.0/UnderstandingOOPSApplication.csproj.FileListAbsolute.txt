@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\ref\UnderstandingOOPSApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\ref\UnderstandingOOPSApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.genruntimeconfig.cache

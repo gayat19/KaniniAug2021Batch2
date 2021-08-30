@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\BankApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\BankApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\BankApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\BankApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\BankApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\ref\BankApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\bin\Debug\net5.0\BankApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\ref\BankApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day9\BankApplication\obj\Debug\net5.0\BankApplication.genruntimeconfig.cache

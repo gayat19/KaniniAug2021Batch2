@@ -1,0 +1,8 @@
+Create a Application that will ask the user the type of Insurance that they wish to purchase
+Health
+Life
+
+Please add the required properties to the Insurance class
+Override the CalclulatePremium method based on the type of insurance and the other properties.
+
+Learn more on ToString Method
