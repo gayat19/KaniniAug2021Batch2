@@ -1,0 +1,13 @@
+Account - AccountNumber,Name,Phone,Balance,AccountType
+  Savings
+  Current
+
+Transaction - FromAccount,ToAccount,Type,Status,Date
+
+OpenAccount  - Create
+PerformTransaction
+PrintTransactionDetails 
+PrintAccountDetails - Read
+
+
+
