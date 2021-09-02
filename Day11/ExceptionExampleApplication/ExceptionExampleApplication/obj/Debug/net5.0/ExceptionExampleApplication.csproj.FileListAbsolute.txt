@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ExceptionExampleApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ExceptionExampleApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ExceptionExampleApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ExceptionExampleApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ExceptionExampleApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ref\ExceptionExampleApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\bin\Debug\net5.0\ExceptionExampleApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ref\ExceptionExampleApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\ExceptionExampleApplication\ExceptionExampleApplication\obj\Debug\net5.0\ExceptionExampleApplication.csprojAssemblyReference.cache

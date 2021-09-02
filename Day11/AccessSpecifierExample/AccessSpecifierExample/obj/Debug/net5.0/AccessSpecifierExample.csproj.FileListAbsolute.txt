@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\AccessSpecifierExample.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\AccessSpecifierExample.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\AccessSpecifierExample.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\AccessSpecifierExample.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\AccessSpecifierExample.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\ref\AccessSpecifierExample.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\bin\Debug\net5.0\AccessSpecifierExample.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\ref\AccessSpecifierExample.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\AccessSpecifierExample\AccessSpecifierExample\obj\Debug\net5.0\AccessSpecifierExample.genruntimeconfig.cache

@@ -52,6 +52,10 @@ namespace BankingApplication
             Console.WriteLine("5. Print all transaction details");
 
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             new Program().PrintMenu();

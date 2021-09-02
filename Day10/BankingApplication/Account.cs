@@ -17,6 +17,15 @@ namespace BankingApplication
         {
             Balance = 5000;
         }
+        public override bool Equals(object obj)
+        {
+            Account a1 = this;
+            Account a2 = (Account)obj;
+            if (a1.AccountNumber == a2.AccountNumber)
+                return true;
+            else
+                return false;
+        }
 
         public Account(string accountNumber, string name, string phone, double balance)
         {

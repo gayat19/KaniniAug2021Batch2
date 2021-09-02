@@ -8,14 +8,18 @@ namespace BankingApplication
 {
     public class Bank
     {
-        Account[] accounts;
-        Transaction[] transactions;
+        // Account[] accounts;
+        List<Account> accounts;
+        //Transaction[] transactions;
+        List<Transaction> transactions;
         int MAX_SIZE = 5;
         int count,transCount;
         public Bank()
         {
-            accounts = new Account[5];
-            transactions = new Transaction[5];
+            //accounts = new Account[5];
+            accounts = new List<Account>();
+            //transactions = new Transaction[5];
+            transactions = new List<Transaction>();
             count = 0;
             transCount = 0;
         }
@@ -32,10 +36,10 @@ namespace BankingApplication
                 switch (typeChoice)
                 {
                     case "s":
-                        accounts[count] = new SavingsAccount();
+                        accounts.Add(new SavingsAccount());
                         break;
                     case "c":
-                        accounts[count] = new CurrentAccount();
+                        accounts.Add(new CurrentAccount());
                         break;
                     case "e":
                         Console.WriteLine("We are done creating accounts");
@@ -44,21 +48,26 @@ namespace BankingApplication
                         Console.WriteLine("Invalid option. Please try again");
                         break;
                 }
-                if (accounts[count] != null)
+                if (typeChoice=="s" || typeChoice=="c")
                 {
-                    accounts[count].GetAccountDetailsFromUser();
+                    //accounts[count].GetAccountDetailsFromUser();
+                    accounts[accounts.Count - 1].GetAccountDetailsFromUser();
                     count++;
                 }
                 else
                     continue;
                 
-            } while (count<MAX_SIZE && typeChoice != "e" );
+            } while (typeChoice != "e" );
         }
         public void PrintAllAccountDetails()
         {
-            for (int i = 0; i < count; i++)
+            //for (int i = 0; i < count; i++)
+            //{
+            //    PrintAccount(accounts[i]);
+            //}
+            foreach (var item in accounts)
             {
-                PrintAccount(accounts[i]);
+                PrintAccount(item);
             }
         }
         public void PrintAccountByNumber()
@@ -78,7 +87,7 @@ namespace BankingApplication
             Account account = null;
             for (int i = 0; i < count; i++)
             {
-                if(accounts[i].AccountNumber == accountNumber)
+                if (accounts[i].AccountNumber == accountNumber)
                 {
                     account = accounts[i];
                     break;
@@ -129,7 +138,8 @@ namespace BankingApplication
             {
                 CreditTransaction(transaction);
             }
-            transactions[transCount] = transaction;
+            //transactions[transCount] = transaction;
+            transactions.Add(transaction);
             transCount++;
         }
         void CreditTransaction(Transaction transaction)
@@ -155,15 +165,20 @@ namespace BankingApplication
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("The transaction details");
             Console.WriteLine(transaction);
-            transaction.Id = transCount + 1;
+            //transaction.Id = transCount + 1;
+            transaction.Id = transactions.Count+1;
         }
         public void PrintAllTranscations()
         {
-            for (int i = 0; i < transCount; i++)
+            //for (int i = 0; i < transCount; i++)
+            //{
+            //    Console.WriteLine("*********************************");
+            //    Console.WriteLine(transactions[i]);
+            //    Console.WriteLine("*********************************");
+            //}
+            foreach (var item in transactions)
             {
-                Console.WriteLine("*********************************");
-                Console.WriteLine(transactions[i]);
-                Console.WriteLine("*********************************");
+                Console.WriteLine(item);
             }
         }
     }

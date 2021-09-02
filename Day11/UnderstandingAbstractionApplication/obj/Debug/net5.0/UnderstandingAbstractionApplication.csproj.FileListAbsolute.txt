@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\UnderstandingAbstractionApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\UnderstandingAbstractionApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\UnderstandingAbstractionApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\UnderstandingAbstractionApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\UnderstandingAbstractionApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\ref\UnderstandingAbstractionApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\bin\Debug\net5.0\UnderstandingAbstractionApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\ref\UnderstandingAbstractionApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day11\UnderstandingAbstractionApplication\obj\Debug\net5.0\UnderstandingAbstractionApplication.genruntimeconfig.cache

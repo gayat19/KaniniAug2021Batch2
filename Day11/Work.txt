@@ -1,0 +1,24 @@
+Interface
+Abstract class
+Access Specifier
+
+Exception Handling
+Try Catch Finaly
+User defined exception
+
+
+IEmployeeManager(ConductMeeting,CheckWork)
+ICustomerManager(ApproveLoan,SolveIssues)
+Manager
+
+
+Create a array of 10 numbers and access them all
+Try a loop that goes beyond the size of the array
+ArrayIndexOutOFBounds
+FormatException
+DivideByZero
+ArithmaticException
+IOException
+NullReferenceException
+
+

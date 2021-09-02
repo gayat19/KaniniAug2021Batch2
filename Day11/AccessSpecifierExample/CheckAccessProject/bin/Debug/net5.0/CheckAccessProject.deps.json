@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CheckAccessProject/1.0.0": {
+        "dependencies": {
+          "AccessSpecifierExample": "1.0.0"
+        },
+        "runtime": {
+          "CheckAccessProject.dll": {}
+        }
+      },
+      "AccessSpecifierExample/1.0.0": {
+        "runtime": {
+          "AccessSpecifierExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckAccessProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessSpecifierExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
