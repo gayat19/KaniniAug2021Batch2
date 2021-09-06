@@ -1,0 +1,25 @@
+Data source=DESKTOP-1C1EU5R\SQLSERVER2019G3;user id=sa;password=P@ssw0rd;Initial catalog=dbCompany06Sep21
+
+Data source=DESKTOP-1C1EU5R\SQLSERVER2019G3;Integrated Security=true;Initial catalog=dbCompany06Sep21
+
+EF Core-> Code First/DatabaseFirst
+
+Models -> Tables
+ Properties -> Attributes
+
+
+Data source=DESKTOP-1C1EU5R\SQLSERVER2019G3;user id=sa;password=P@ssw0rd;Initial catalog=dbCompanyEFCF
+
+Install Packages
+   dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+  dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+In teh package manager console
+   Add-Migration initialMigration
+   update-database
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+1) Create a Fresh application that will create a database with name "Day13Question"
+Create a table in that application with name
+Studnet
+  Id,Name,DateOfJoining
+
+Create 3 records when u migrate
+
+In teh program class add the methods
+
+AddStudent -- Inserts a new student
+DeleteStudent  --Deletes student by taking ID
+PrintAllStudnet -- Prints all the students details
+
+2) Convert the Bank Project in such a way that it save the data and retrives data in and from the database
+Use ADO.NET
