@@ -1,0 +1,12 @@
+Employee
+Departement
+Lazy loading
+    Even if u load the Parent child does not load
+
+Take employee details from user
+while entering the departmnet ID list the available departments and then take the department id
+
+Action, Func, Perdicate - In Built delegates 
+Action -> up to 16 params , no return
+Func -> upto 16 params, 1 return
+Perdicate -> 1 parameter, bool return

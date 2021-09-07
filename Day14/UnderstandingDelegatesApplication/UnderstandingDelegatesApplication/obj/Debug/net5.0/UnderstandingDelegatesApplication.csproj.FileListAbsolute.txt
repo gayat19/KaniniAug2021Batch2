@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\UnderstandingDelegatesApplication.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\UnderstandingDelegatesApplication.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\UnderstandingDelegatesApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\UnderstandingDelegatesApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\UnderstandingDelegatesApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\ref\UnderstandingDelegatesApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\bin\Debug\net5.0\UnderstandingDelegatesApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\ref\UnderstandingDelegatesApplication.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day14\UnderstandingDelegatesApplication\UnderstandingDelegatesApplication\obj\Debug\net5.0\UnderstandingDelegatesApplication.genruntimeconfig.cache
