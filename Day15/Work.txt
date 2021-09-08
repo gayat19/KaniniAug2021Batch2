@@ -1,0 +1,34 @@
+Scaffold-DbContext "Data source=DESKTOP-1C1EU5R\SQLSERVER2019G3;user id=sa;password=P@ssw0rd;Initial catalog=pubs" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Use database first approch
+Create a console application that will do the following.
+Please enter the author name
+XXXXX
+(list the books by that author- If no book is present say "Author yet to start" and ask the author Name again)
+From the books Selecet a title ID
+(Take the title id and print all the sale details of that title)
+
+Repeat until user chooses to exit
+
+Use Git to collabrate your code
+
+
+git pull origin master --allow-unrelated-histories 
+
+For tomorrow's Evaluation
+
+You have to use code first approch with SQL
+It will involve CRUD operation and logics
+Only console Application
+The task is Inidividual
+You have to finish the application withing the given time
+People who do not turn in before teh time will get 0
+You have to show the execution of the project. Exception handling, comments and following the coding standards is manditory.
+If deviated the score will be 0, If due to any reason ur application crashes then also 0.
+If you application executes and gives teh expected output then full score "100"
+You will get 3 hours for the test
+
+
+
+
