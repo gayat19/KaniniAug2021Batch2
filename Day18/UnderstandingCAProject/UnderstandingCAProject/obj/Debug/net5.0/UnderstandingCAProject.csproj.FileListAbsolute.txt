@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\UnderstandingCAProject.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\UnderstandingCAProject.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\UnderstandingCAProject.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\UnderstandingCAProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\UnderstandingCAProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\ref\UnderstandingCAProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\bin\Debug\net5.0\UnderstandingCAProject.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\ref\UnderstandingCAProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day18\UnderstandingCAProject\UnderstandingCAProject\obj\Debug\net5.0\UnderstandingCAProject.genruntimeconfig.cache

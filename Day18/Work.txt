@@ -1,0 +1,18 @@
+Code Standard
+    Microsoft -https://docs.microsoft.com/en-us/visualstudio/code-quality/rule-set-reference?view=vs-2019
+    Sonar - https://rules.sonarsource.com/csharp/
+Code Smell
+
+DOM
+
+Java Script - client side script
+   Structure
+   Element Access
+   Array
+   Object
+
+Question
+Create a application taht will store the product details in the database and print all teh product details
+1. List Products
+2. Add Product
+(use database first approch)
