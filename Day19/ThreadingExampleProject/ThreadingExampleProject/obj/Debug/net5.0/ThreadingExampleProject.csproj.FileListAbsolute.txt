@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ThreadingExampleProject.exe
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ThreadingExampleProject.deps.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ThreadingExampleProject.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ThreadingExampleProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ThreadingExampleProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ref\ThreadingExampleProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\bin\Debug\net5.0\ThreadingExampleProject.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ref\ThreadingExampleProject.dll
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.pdb
+D:\Data\d drive\Corp\Kanini\June-21\Batch2\Participants\Day19\ThreadingExampleProject\ThreadingExampleProject\obj\Debug\net5.0\ThreadingExampleProject.genruntimeconfig.cache

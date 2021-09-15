@@ -1,0 +1,1 @@
+Create input box for taking employee id, name and age. When the user clicks add employee button add it to the table that is displayed
