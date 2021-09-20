@@ -1,0 +1,8 @@
+Create a new MVC application for Employee Management.
+
+Try to do the CRUD operation in it
+
+Please place the code and screenshot of all the operation  word
+
+Functions expected
+Index, Details,Create,Edit,Delete

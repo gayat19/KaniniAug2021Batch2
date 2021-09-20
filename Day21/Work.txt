@@ -1,0 +1,12 @@
+MVC - ASP.NET core
+
+MVC - > Model-View-Controller
+
+Model -> C# object
+View -> HTML CS+HTML -> CSHTML-> Razor Engine Renders as HTML
+Controller -> CS controller object
+
+/Student/Index
+ViewBag,ViewData
+
+Strongly Typed View
