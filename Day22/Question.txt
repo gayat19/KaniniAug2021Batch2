@@ -1,0 +1,4 @@
+1) Explore how to work with login page
+Create a user table using code first approch
+2) handle the login page(get and post)
+If login is successful go to another view(any view)

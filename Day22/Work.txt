@@ -1,0 +1,12 @@
+1) Dependency Injection
+    Loosly couple the objects
+    Testing made easy
+2) Service
+    How to add a service
+
+3) Error Page
+4) Routing
+5) Static Page
+
+
+
