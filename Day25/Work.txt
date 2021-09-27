@@ -1,0 +1,23 @@
+Continue in MVC
+   Partial Views
+ViewModel
+
+
+Introduction to Web API  
+   Application Programming Interface
+HTTP + API
+1) Client Server arch
+2) Independent - Its stateless
+3) Cache-enabled 
+4) Interface Standard -> 
+    C-> Post, R-> Get, U-> Put, D-> Delete
+5) Resource -> Employee, Department, Pizza, Bill, Customer, User
+    get -> http://localhost:33445/Employee -> Get all the employees
+    get -> http://localhost:33445/Employee/1 -> Get a specific employee
+    post -> http://localhost:33445/Employee ->Employee object in body-> Add employee
+    put -> http://localhost:33445/Employee/1 ->Employee object in body-> Edits the specific employee details
+    delete -> http://localhost:33445/Employee/1 -> Deletes a specific employee   
+
+6) Supports XML and JSON
+
+ 

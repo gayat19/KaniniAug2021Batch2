@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMcZCQ9UNpR4fKsgjKrepc3M209xQH9UoJJGwPAsnzXmC1n8j0lHebd7+BiS5gwKcO5oEJAqGebhOyUnQqjfmw==",
+  "success": true,
+  "projectFilePath": "D:\\Data\\d drive\\Corp\\Kanini\\June-21\\Batch2\\Participants\\Day25\\SFirstAPIProject\\SFirstAPIProject\\SFirstAPIProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
