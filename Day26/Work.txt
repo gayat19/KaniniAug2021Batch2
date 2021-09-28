@@ -1,0 +1,4 @@
+ViewModel -> not connected to database
+Only for view purpose
+
+DTo -
