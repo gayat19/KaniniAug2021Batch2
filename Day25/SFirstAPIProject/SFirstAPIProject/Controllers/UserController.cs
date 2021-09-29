@@ -37,11 +37,11 @@ namespace SFirstAPIProject.Controllers
 
         // POST api/<UserController>
         [HttpPost]
-        public async Task<ActionResult<User>> Post([FromBody] UserDTO user)
+        public async Task<ActionResult<UserDTO>> Post([FromBody] UserDTO user)
         {
-            var myUser = _service.Register(user);
-            if (myUser != null)
-                return myUser;
+            var userDTO = _service.Register(user);
+            if (userDTO != null)
+                return userDTO;
             return BadRequest("Not able to register");
         }
 

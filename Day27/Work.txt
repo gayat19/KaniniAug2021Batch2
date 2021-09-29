@@ -1,0 +1,7 @@
+JWT
+  Header
+    Algo + type
+  Payload
+    NameId, Role, Expiry
+  Signature
+    Key

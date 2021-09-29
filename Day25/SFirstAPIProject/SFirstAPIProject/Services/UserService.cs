@@ -11,17 +11,19 @@ namespace SFirstAPIProject.Services
     public class UserService
     {
         private readonly CompanyContext _context;
+        private readonly ITokenService _tokenService;
 
-        public UserService()
-        {
-
-        }
-        public UserService(CompanyContext context)
+        //public UserService(ITokenService tokenService)
+        //{
+        //    _tokenService = tokenService;
+        //}
+        public UserService(CompanyContext context, ITokenService tokenService)
         {
             _context = context;
+            _tokenService = tokenService;
         }
 
-        public User Register(UserDTO userDto)
+        public UserDTO Register(UserDTO userDto)
         {
             try
             {
@@ -34,7 +36,9 @@ namespace SFirstAPIProject.Services
                 };
                 _context.Users.Add(user);
                 _context.SaveChanges();
-                return user;
+                userDto.jwtToken = _tokenService.CreateToken(userDto);
+                userDto.Password = "";
+                return userDto;
             }
             catch (Exception e)
             {
