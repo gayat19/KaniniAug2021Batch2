@@ -20,21 +20,6 @@ namespace SFirstAPIProject.Controllers
         {
             _service = userSevice;
         }
-        
-        // GET: api/<UserController>
-        [HttpGet]
-        public IEnumerable<User> Get()
-        {
-            return null;
-        }
-
-        // GET api/<UserController>/5
-        [HttpGet("{id}")]
-        public User Get(int id)
-        {
-            return null;
-        }
-
         // POST api/<UserController>
         [HttpPost]
         public async Task<ActionResult<UserDTO>> Post([FromBody] UserDTO user)
@@ -45,11 +30,14 @@ namespace SFirstAPIProject.Controllers
             return BadRequest("Not able to register");
         }
 
-        // PUT api/<UserController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] User user)
+        [Route("Login")]
+        [HttpPost]
+        public async Task<ActionResult<UserDTO>> Put([FromBody] UserDTO user)
         {
-            
+            var userDTO = _service.Login(user);
+            if (userDTO != null)
+                return Ok(userDTO);
+            return BadRequest("Not able to register");
         }
 
         // DELETE api/<UserController>/5

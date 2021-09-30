@@ -1,4 +1,5 @@
-﻿using SFirstAPIProject.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using SFirstAPIProject.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,7 +23,7 @@ namespace SFirstAPIProject.Services
             _context = context;
             _tokenService = tokenService;
         }
-
+       
         public UserDTO Register(UserDTO userDto)
         {
             try
@@ -39,6 +40,32 @@ namespace SFirstAPIProject.Services
                 userDto.jwtToken = _tokenService.CreateToken(userDto);
                 userDto.Password = "";
                 return userDto;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            return null;
+            }
+        public  UserDTO Login(UserDTO userDto)
+        {
+            try
+            {
+                var myUser = _context.Users.SingleOrDefault(u => u.UserId == userDto.Id);
+                if(myUser != null)
+                {
+                    using var hmac = new HMACSHA512(myUser.PasswordSalt);
+                    var userPassword = hmac.ComputeHash(Encoding.UTF8.GetBytes(userDto.Password));
+
+                    for (int i = 0; i < userPassword.Length; i++)
+                    {
+                        if (userPassword[i] != myUser.PasswordHash[i])
+                            return null;
+                    }
+                    userDto.jwtToken = _tokenService.CreateToken(userDto);
+                    userDto.Password = "";
+                    return userDto;
+                }
             }
             catch (Exception e)
             {

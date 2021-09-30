@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "396jUDZNJwl49NGT3d1Eqr9rPfDHT5NdjGSpSioLk4mNNTOdEWVgOL+VRYKG1VUdAkSNRuRVbZ6FT50P+CRzAg==",
+  "dgSpecHash": "l4NtFIlg4s2U1VP+BDyzjwLknoLfC+uaL30bjWO5PUC/JvoFx43+ccXq1lGrLzlctd0cnDIBDrZLiOYjG2st/Q==",
   "success": true,
   "projectFilePath": "D:\\Data\\d drive\\Corp\\Kanini\\June-21\\Batch2\\Participants\\Day25\\SFirstAPIProject\\SFirstAPIProject\\SFirstAPIProject.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\gayat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\gayat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
