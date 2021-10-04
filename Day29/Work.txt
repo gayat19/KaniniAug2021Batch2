@@ -1,0 +1,20 @@
+Today - > Learn MicroService Arch
+You will implement a small demo for the same
+
+Tomorrow - Thur -> Converting your Pizza app to have MS arch
+You will do indv work on Microservices
+
+Next week - Angular 6 days
+
+Cloud -> You will start your project(small proj indv and a big group project as the whole class)
+
+Create a MVC application 
+User - > username and password
+Employee -> emplID, Name, Age
+
+Web API(Gateway) -> user(authentication) and employee controller(Call to the employee API) call the employee API if user is authenticated
+User - > username and password
+Employee -> emplID, Name, Age
+
+Web API -> Employee API -> Adds and lists all the employee
+Employee -> emplID, Name, Age
