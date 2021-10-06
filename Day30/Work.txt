@@ -1,0 +1,11 @@
+MVC
+|
+V
+Gateway API ->
+      User -> User,UserDTO
+      Authorized 
+         Pizza -> PizzaDTO
+         Topping -> ToppingsDTO
+         Order -> OrderDTO, UserBillDTO
+Pizza API ->
+      

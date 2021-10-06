@@ -1,0 +1,44 @@
+Node download
+https://nodejs.org/en/download/
+
+Check node in cmd prompt
+node --version
+
+
+Install angular
+npm install -g @angular/cli
+
+check angular installation
+ng --version
+
+To create a new angular application
+ng new MyAngularApp
+
+To Start the server first navigate inside theproject folder
+cd MyAngularApp
+Then start the server
+ng serve
+
+In the browser
+http://localhost:4200/
+
+SPA -> Single Page Application
+MEAN -> Mongo-Express-Angular-Node
+MERN -> Mongo-Express-React-Node
+In our project
+FS -> SQL-> Web API(.NET Core) -> Angular-Node
+Mongo -> Web API(.NET Core) -> Angular-Node
+SQL-> Web API(Java Spring Boot) -> Angular-Node
+
+
+
+Component will have 4 files
+  Component.ts - type script
+  Html - the view
+  CSS - style
+  spec.ts - > karma testing file
+
+
+To generate a new component
+ng generate component student
+ng g c student

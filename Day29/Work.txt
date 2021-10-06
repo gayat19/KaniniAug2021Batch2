@@ -18,3 +18,8 @@ Employee -> emplID, Name, Age
 
 Web API -> Employee API -> Adds and lists all the employee
 Employee -> emplID, Name, Age
+
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error		Could not write lines to file "obj\Debug\FourthCoffee.ExceptionLogger.csproj.FileListAbsolute.txt". Path: obj\Debug\FourthCoffee.ExceptionLogger.csproj.FileListAbsolute.txt exceeds the OS max path limit. The fully qualified file name must be less than 260 characters.	FourthCoffee.ExceptionLogger			
+
