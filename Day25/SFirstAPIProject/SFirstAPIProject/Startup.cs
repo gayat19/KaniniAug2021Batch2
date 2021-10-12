@@ -40,6 +40,7 @@ namespace SFirstAPIProject
             services.AddDbContext<CompanyContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:conCompany"]));
             services.AddScoped<UserService>();
             services.AddScoped<ITokenService, TokenService>();
+            services.AddCors(options=>options.AddPolicy("MyPolicy",builder=> { builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader(); }));
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options=> {
                     options.TokenValidationParameters = new TokenValidationParameters
@@ -64,6 +65,7 @@ namespace SFirstAPIProject
 
             app.UseRouting();
             app.UseAuthentication();
+            app.UseCors();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

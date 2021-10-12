@@ -12,10 +12,10 @@ check angular installation
 ng --version
 
 To create a new angular application
-ng new MyAngularApp
+ng new MYAngularApp
 
 To Start the server first navigate inside theproject folder
-cd MyAngularApp
+cd MYAngularApp
 Then start the server
 ng serve
 

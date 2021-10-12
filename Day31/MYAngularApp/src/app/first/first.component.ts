@@ -7,9 +7,25 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FirstComponent implements OnInit {
 
-  constructor() { }
-
+  name:string;
+  styleName:string;
+  clsName:string;
+  constructor() {
+    this.name = "Yum";
+    this.styleName = "check";
+    this.clsName = "glyphicon glyphicon-heart";
+   }
+   changeStyle(sname:any){
+     console.log(sname.value);
+     this.styleName=sname.value;
+   }
   ngOnInit(): void {
+  }
+  change(){
+    if(this.clsName == "glyphicon glyphicon-heart")
+      this.clsName = "glyphicon glyphicon-heart-empty";
+    else
+    this.clsName = "glyphicon glyphicon-heart";
   }
 
 }

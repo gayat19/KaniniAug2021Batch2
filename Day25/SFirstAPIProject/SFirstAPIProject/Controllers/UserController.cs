@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using SFirstAPIProject.Models;
 using SFirstAPIProject.Services;
 using System;
@@ -11,6 +12,7 @@ using System.Threading.Tasks;
 namespace SFirstAPIProject.Controllers
 {
     [Route("api/[controller]")]
+    [EnableCors("MyPolicy")]
     [ApiController]
     public class UserController : ControllerBase
     {

@@ -1,0 +1,8 @@
+Service -> component
+Web API -> service -> component
+
+Service
+Inject the service
+Take teh service injection
+Structural directive
+  *ngFor
