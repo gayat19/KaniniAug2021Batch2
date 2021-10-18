@@ -1,4 +1,20 @@
 <!-- <h1>Hello World!!!!</h1>
 <app-first></app-first>
-<app-employee></app-employee> -->
-<app-register></app-register>
+<app-employee></app-employee> 
+<app-register></app-register>-->
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Home</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a routerLink="employee">Employee</a></li>
+        <li><a  routerLink="first" >First</a></li>
+        <li><a  routerLink="register">Register</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div>
+      <router-outlet></router-outlet>
+  </div>

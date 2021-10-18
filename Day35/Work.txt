@@ -1,0 +1,10 @@
+Template Driven Validation
+   HTML based validation -> Validation added in View
+Reactive form validation
+   Ts file + HTML validation
+   Validation added in Componenet and checkied in View
+	Create a form group 
+	-> add the controls to the form group
+	-> add validations to the controls 
+	-> Associate the html elemet with the control 
+	-> check for errors
